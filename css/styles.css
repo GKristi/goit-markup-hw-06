@@ -591,14 +591,8 @@ color: var(--background-color);
     cursor: pointer;
 }
 
-
-
-
 .icon-send {
     margin-left: 10px;
-    
-    /* display:block; */
-    /* display: flex; */
     fill: var(--magic-color);
 }
 
